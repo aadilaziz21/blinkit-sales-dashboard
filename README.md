@@ -52,3 +52,5 @@ This project is an interactive Microsoft Excel dashboard developed to analyze 12
 
 ##  Author
 **Aadil Aziz**
+<img width="1453" height="570" alt="sales_dashboard" src="https://github.com/user-attachments/assets/cd5b7f95-5a29-40ee-911e-f1d0f9cf7ece" />
+
